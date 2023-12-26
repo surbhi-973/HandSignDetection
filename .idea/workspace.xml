@@ -4,7 +4,208 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d52de22c-cc0c-4ceb-9775-2a4a24c548f8" name="Changes" comment="Basics">
+    <list default="true" id="d52de22c-cc0c-4ceb-9775-2a4a24c548f8" name="Changes" comment="Collecting Data for different classes">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593166.9700599.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593167.0620754.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593167.1510973.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593167.286138.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593167.3761628.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593167.467179.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593167.5732076.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593167.6692302.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593167.7572532.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593167.8622782.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593167.9523005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593168.13335.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593168.2323747.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593168.3433795.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593168.4574096.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593176.3743424.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593176.9494405.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593177.0324662.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593177.1184843.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593177.2095053.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593177.2995331.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593177.3855538.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593177.4885943.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593177.5816064.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593177.6726248.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593177.77265.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593177.8756654.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593177.966687.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593178.073714.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593178.1647367.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593178.24976.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593178.3587875.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593178.454811.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593178.5418286.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593178.6528602.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593178.7368777.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593178.8209002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593179.024868.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593179.1298933.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593179.2169256.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593179.3189492.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593179.4059725.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593179.4939852.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593179.6180215.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593180.0901337.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593180.1981604.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593180.287187.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593180.379209.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593180.4892352.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593180.5852573.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593180.6792822.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593180.778307.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593180.8673267.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593180.9553547.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593181.0653753.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593181.1484067.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593181.2564156.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593181.3664458.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593181.467469.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593181.5654972.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593181.6935287.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593181.8035543.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593181.9205854.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593182.0426145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593182.14864.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593182.2616704.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593182.3807063.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593182.48273.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593182.5847487.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593182.6777742.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593182.7788014.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593182.8968308.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593182.9918559.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593183.093882.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593183.204907.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593183.3029354.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593183.4089658.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593183.5089955.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593183.6300197.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593183.7590475.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593183.8970885.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593184.0241158.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593184.1751552.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593184.2771842.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593184.409218.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593184.5132475.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593184.7092893.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593184.8183157.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593184.9173422.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593184.99436.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593185.070378.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593185.15841.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593185.2364233.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593185.335447.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593185.4424787.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593185.5435007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593373.2801795.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593373.9885561.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593374.0795732.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593374.1815882.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593374.2816212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593374.3726456.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593374.4566698.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593374.5616877.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593374.6597095.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593374.7457397.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593374.853756.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593374.9477873.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593375.04181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593375.1478488.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593375.2768703.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593375.3928924.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593375.5009205.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593375.6219566.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593375.7169762.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593375.8139946.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593375.9280198.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593376.0250452.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593376.1200693.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593376.3140686.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593376.4050944.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593376.569109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593376.6721325.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593376.7922873.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593376.9012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593377.0092163.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593377.1322448.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593377.2552822.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593377.373309.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593377.475335.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593377.6043797.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593377.7514079.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593377.8574314.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593377.9894683.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593378.0964892.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593378.2045183.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593378.3075426.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593378.4195852.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593378.5366027.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593378.6386333.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593378.7546573.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593378.8496866.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593378.9487185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593379.0507357.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593379.1557386.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593379.247784.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593379.3557897.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593379.4498143.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593379.55283.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593379.658868.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593379.7548792.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593379.8499038.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593379.9539266.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593380.0579615.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593380.1579866.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593380.2680092.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593380.3550344.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593380.4590604.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593380.557088.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593380.651103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593380.7571356.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593380.8531663.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593380.94718.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593381.053212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593381.147237.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593381.2422547.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593381.431236.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593381.5182614.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593381.6602933.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593381.752322.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593381.8473446.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593381.9633827.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593382.0553977.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593382.1494155.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593382.2844512.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593382.372488.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593382.4654975.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593382.5855262.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593382.6975558.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593382.7955787.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593382.9006076.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593382.991629.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593383.173677.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593383.265706.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593384.7180657.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593384.9291065.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593385.0291328.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593385.125162.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593385.2331772.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593385.320199.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593385.4262235.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593385.5272517.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593385.6252828.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593385.7323022.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593385.8273242.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593385.9163494.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593386.0263758.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593386.1113958.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593386.2024238.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data/A/Image_1703593386.3134575.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/dataCollection.py" afterDir="false" />
     </list>
@@ -133,12 +334,21 @@
       <option name="project" value="LOCAL" />
       <updated>1703588017379</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Collecting Data for different classes">
+      <option name="closed" value="true" />
+      <created>1703593619252</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1703593619254</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Basics" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basics" />
+    <MESSAGE value="Collecting Data for different classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collecting Data for different classes" />
   </component>
 </project>
